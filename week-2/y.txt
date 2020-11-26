@@ -1,0 +1,24 @@
+ 
+123: number
+ÿÿÿÿÿÿÿÿ : identifier
+(
+)
+{ 
+int : keyword 
+a : identifier
+,
+b : identifier
+==: relational operator EQ 
+5: number
+. 
+876: number
+;
+/': invalid lexeme
+<: relational operator LT
+>: relational operator GT
+<: relational operator LT
++
+<=: relational operator LE
+!
+,
+!=: relational operator NE

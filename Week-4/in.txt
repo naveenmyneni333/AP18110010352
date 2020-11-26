@@ -1,0 +1,27 @@
+void: keyword
+main: keyword
+(: 
+): 
+{: 
+int: keyword
+a: identifier
+;: 
+single-line comment
+a: identifier
+<=: Relational operator LE
+5.3: fractional float
+!=: Relational operator NE
+-2.1: fractional float
+b: identifier
+=: Assignment operator
+.6: fractional float
+-5e+9: exponential float
+multi-line comment
+_end: identifier
+}: 
+
+Symbol table:
+
+1. a
+2. b
+3. _end

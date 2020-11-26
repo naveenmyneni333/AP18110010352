@@ -1,0 +1,9 @@
+void main()
+{
+  int a;//10213
+  a<=5.3 != -2.1
+  b=.6
+  -5e+9 /* K. SRee Rama Murthy
+*/
+  _end
+}
